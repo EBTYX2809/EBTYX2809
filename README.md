@@ -1,5 +1,6 @@
-# Hi there. I'm Artem and I like programming.
-### I'm motivated .NET C# Backend Developer with knowledge of the full software development lifecycle. Skilled in ASP.NET Core, Entity Framework, REST API development, and CI/CD practices. Experienced with designing software architecture, writing automated tests, and deploying projects to production.
+<h1 align="center"> Hi there. I'm Artem and I like programming. </h1>
+
+<h3 align="left"> I'm motivated .NET C# Backend Developer with knowledge of the full software development lifecycle. Skilled in ASP.NET Core, Entity Framework, REST API development, and CI/CD practices. Experienced with designing software architecture, writing automated tests, and deploying projects to production. </h3>
 
 ###
 ___
@@ -97,7 +98,7 @@ ___
 ###
 ___
 
-<h3 align="left">See you</h3>
+<h3 align="center">See you</h3>
 
 ###
 
